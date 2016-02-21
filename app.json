@@ -1,6 +1,5 @@
 {
-  "name": "Getting Started with Scala on Heroku",
-  "description": "A barebones Scala app (using the Play framework), which can easily be deployed to Heroku.",
-  "image": "heroku/scala",
-  "addons": [ "heroku-postgresql" ]
+  "name": "Scala and Akka on Heroku",
+  "description": "A Scala and Akka app (using the Play framework), which can easily be deployed to Heroku.",
+  "image": "heroku/scala"
 }

@@ -1,4 +1,4 @@
-# scala/play-getting-started
+# Scala + Akka
 
 A barebones Scala app (using the Play framework), which can easily be deployed to Heroku.  
 
@@ -24,10 +24,3 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
-
-## Documentation
-
-For more information about using Play and Scala on Heroku, see these Dev Center articles:
-
-- [Play and Scala on Heroku](https://devcenter.heroku.com/categories/language-support#scala-and-play)
-
